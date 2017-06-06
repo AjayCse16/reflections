@@ -20,7 +20,7 @@ Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
 since all the files in the repository are connect to each other so there is a need to save in one commit
-while in Google Docs all files are independent so there is no need to save in one commit.
+while in Google Docs all files are independent so there is no need to save in one commit.cd 
 
 How can you use the commands git log and git diff to view the history of files?
 
